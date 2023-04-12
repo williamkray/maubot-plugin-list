@@ -1,0 +1,45 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  word-wrap: break-word;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+th:first-child {
+  width: 15%;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+#search-field {
+  width: 100%;
+  max-width: 1000px;
+  padding: 8px;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+#plugin-table {
+  table-layout: fixed;
+  max-width: 1000px;
+  width: 100%;
+}
+
+#table-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
