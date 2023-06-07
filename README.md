@@ -1,7 +1,7 @@
 # Simple webpage for maubot plugins
 
 See the site itself at:
-https://williamkray.github.io/maubot-plugin-list/
+https://maubotplugins.mssj.me
 
 this is not meant to be an official site, and is definitely not comprehensive. But i did want to create a simple
 location people could go to find maubot plugins easily. the goal is to compile a list of useful plugins that's easy to
